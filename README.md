@@ -1,5 +1,5 @@
-# GIT
-Version Control System
+# GIT Version Control System
+
 
 
 GIT installation for LINUX
