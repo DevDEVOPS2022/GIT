@@ -2,4 +2,6 @@
 Version Control System
 
 
-GIT installation
+GIT installation for LINUX
+
+yum install git
