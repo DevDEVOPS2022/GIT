@@ -12,7 +12,7 @@ git config --global user.name "Uki"
 
 
 
-git config --global user.email "@"
+git config --global user.email @
 
 git config user.name
 
