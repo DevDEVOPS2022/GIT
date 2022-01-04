@@ -22,4 +22,6 @@ git config user.email
 
 # CREATING REPOSITORY
 
-git init                                       .git
+git init                                       
+
+                                                                       .git
