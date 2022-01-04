@@ -26,4 +26,4 @@ git init
 
                                                                        .git
 
-git status
+git status                                      current status of REPO
