@@ -32,3 +32,6 @@ git status
                                                                         
                                                                         
 .gitignore
+
+
+git add -A
