@@ -28,3 +28,7 @@ git init
 
 git status                                      
                                                                         current status of REPO
+                                                                        
+                                                                        
+                                                                        
+.gitignore
