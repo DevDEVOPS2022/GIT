@@ -45,5 +45,12 @@ git push -u origin master
 
 # DOWNLOADING EXISTING REPOSITORY
 
+git clone URL
+
+git status
+---------------------------------------------------------------------
+
+git pull     --- current changes from remote repo
+
 
 
