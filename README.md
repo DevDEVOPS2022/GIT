@@ -18,3 +18,8 @@ git config user.name
 
 
 git config user.email
+
+
+# CREATING REPOSITORY
+
+git init
