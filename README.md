@@ -25,3 +25,5 @@ git config user.email
 git init                                       
 
                                                                        .git
+
+git status
